@@ -13,6 +13,8 @@ you can use cmd and full control
 8. encryption
 9. decryption
 10. persistance
+11. kill regedit
+12. kill task manager
 and other usefull functions
 
 this RAT is dangereous. it can led to damage human sound function (ears) and also might k*ll human. 
